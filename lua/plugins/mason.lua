@@ -11,6 +11,13 @@ return {
         -- Lua
         "lua_ls",
 
+        -- Go
+        "gopls",
+
+        -- Python
+        "pyright",
+        "ruff",
+
         -- add more arguments for adding more language servers
       },
     },
@@ -23,6 +30,13 @@ return {
       ensure_installed = {
         -- Lua
         "stylua",
+
+        -- Go
+        "goimports",
+        "goimports-reviser",
+
+        -- Python
+        "black",
 
         -- add more arguments for adding more null-ls sources
       },
