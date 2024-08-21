@@ -6,6 +6,7 @@ return {
   -- colorschemas
   { "doums/darcula" },
   { "folke/tokyonight.nvim" },
+  { "sho-87/kanagawa-paper.nvim" },
 
   { "tpope/vim-fugitive", cmd = "Git" }, -- Git
   -- == Examples of Adding Plugins ==
