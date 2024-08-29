@@ -7,6 +7,7 @@ return {
   { "doums/darcula" },
   { "folke/tokyonight.nvim" },
   { "sho-87/kanagawa-paper.nvim" },
+  { "projekt0n/github-nvim-theme" },
 
   { "tpope/vim-fugitive", cmd = "Git" }, -- Git
   -- == Examples of Adding Plugins ==

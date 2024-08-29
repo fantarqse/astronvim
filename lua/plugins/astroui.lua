@@ -11,6 +11,7 @@ return {
     -- change colorscheme
     -- colorscheme = "astrodark",
     colorscheme = "tokyonight-night",
+    -- colorscheme = "github_dark_dimmed",
     -- colorscheme = "kanagawa-paper",
 
     -- AstroUI allows you to easily modify highlight groups easily for any and all colorschemes
