@@ -17,7 +17,13 @@ return {
       -- Set a formatter
       -- null_ls.builtins.formatting.stylua,
       -- null_ls.builtins.formatting.prettier,
+
+      -- Spellchecks
       null_ls.builtins.completion.spell,
+      null_ls.builtins.diagnostics.codespell,
+
+      null_ls.builtins.diagnostics.buf, -- Protobuf
+      null_ls.builtins.diagnostics.checkmake, -- Makefiles
 
       -- Python
       null_ls.builtins.formatting.black,
