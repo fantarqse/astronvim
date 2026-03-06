@@ -14,6 +14,9 @@ return {
         -- Go
         "gopls",
 
+        -- Rust
+        "rust_analyzer",
+
         -- Python
         -- "pyright",
         "pylsp",

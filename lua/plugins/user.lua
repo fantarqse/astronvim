@@ -4,8 +4,7 @@
 ---@type LazySpec
 return {
   -- colorschemas
-  { "doums/darcula" },
-  { "xiantang/darcula-dark.nvim" },
+  { "tallestlegacy/darcula.nvim" },
   { "folke/tokyonight.nvim" },
   { "sho-87/kanagawa-paper.nvim" },
   { "projekt0n/github-nvim-theme" },
