@@ -23,6 +23,7 @@ return {
           "go",
           "python",
           "lua",
+          "rust",
         },
         ignore_filetypes = { -- disable format on save for specified filetypes
           -- "python",

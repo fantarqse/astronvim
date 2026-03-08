@@ -15,7 +15,7 @@ return {
         "gopls",
 
         -- Rust
-        "rust_analyzer",
+        -- "rust_analyzer",
 
         -- Python
         -- "pyright",

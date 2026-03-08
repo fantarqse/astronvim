@@ -10,6 +10,7 @@ return {
       "python",
       "go",
       "bash",
+      "rust",
       -- add more arguments for adding more treesitter parsers
     },
   },
