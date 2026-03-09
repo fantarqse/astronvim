@@ -13,8 +13,6 @@ return {
     -- colorscheme = "tokyonight-night",
     colorscheme = "github_dark_dimmed",
     -- colorscheme = "github_dark_tritanopia",
-    -- colorscheme = "kanagawa-paper",
-    -- colorscheme = "gruvbox-material",
     -- colorscheme = "darcula",
 
     -- AstroUI allows you to easily modify highlight groups easily for any and all colorschemes
