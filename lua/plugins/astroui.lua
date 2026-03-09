@@ -10,8 +10,8 @@ return {
   opts = {
     -- change colorscheme
     -- colorscheme = "astrodark",
-    -- colorscheme = "tokyonight-night",
-    colorscheme = "github_dark_dimmed",
+    colorscheme = "tokyonight-night",
+    -- colorscheme = "github_dark_dimmed",
     -- colorscheme = "github_dark_tritanopia",
     -- colorscheme = "darcula",
 
